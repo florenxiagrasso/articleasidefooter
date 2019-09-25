@@ -1,0 +1,18 @@
+article {
+            float: left;
+            width: 60%;
+}
+
+aside {
+
+    width: 15%;
+    float: right;
+    
+}
+
+.clearfix {
+        clear: both;
+}
+
+
+
